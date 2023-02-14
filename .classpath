@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="com/rs/game/player/content/Vote.java" kind="src" path="src"/>
+	<classpathentry kind="lib" path="data/libs/netty-3.5.2.Final.jar"/>
+	<classpathentry kind="lib" path="data/libs/gson-2.2.2.jar"/>
+	<classpathentry kind="lib" path="data/libs/guava-r438.jar"/>
+	<classpathentry kind="lib" path="data/libs/mvgate3.jar"/>
+	<classpathentry kind="lib" path="data/libs/mysql-5.0.5-bin.jar"/>
+	<classpathentry kind="lib" path="data/libs/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="lib" path="data/libs/mysql.jar"/>
+	<classpathentry kind="lib" path="data/libs/everythingrs-api.jar"/>
+	<classpathentry kind="lib" path="data/libs/javacord-3.4.0-shaded.jar"/>
+	<classpathentry kind="lib" path="data/libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="data/libs/commons-io-2.11.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
